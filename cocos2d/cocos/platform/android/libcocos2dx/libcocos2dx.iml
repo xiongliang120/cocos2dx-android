@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":libcocos2dx" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/../../../../../proj.android" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
+        <option name="BUILDABLE" value="false" />
+      </configuration>
+    </facet>
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":libcocos2dx" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/res/rs/debug;file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+    <output-test url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+    <exclude-output />
+    <content url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/java/src">
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/java/src" isTestSource="false" />
+    </content>
+    <content url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx">
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/res/rs/debug" type="java-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/res/rs/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/source/apt/test/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/main/res" type="java-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/test/shaders" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/src/androidTest/shaders" isTestSource="true" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/not_namespaced_r_class_sources" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/generated/source/r" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/aapt_friendly_merged_manifests" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/aidl_parcelable" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/annotation_processor_list" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/check_manifest_result" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/compile_only_not_namespaced_r_class_jar" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/full_jar" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/incremental" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/intermediate-jars" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/javac" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/jniLibs" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/library_assets" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/library_manifest" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/merged_manifests" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/packaged_res" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/public_res" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/rs" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/shader_assets" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/shaders" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/symbols" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/tmp" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/transforms" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/outputs" />
+      <excludeFolder url="file://D:/tmpSpace/game/MyCppGame/cocos2d/cocos/platform/android/libcocos2dx/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: __local_aars__:D.\tmpSpace\game\MyCppGame\cocos2d\cocos\platform\android\java\libs\httpclient-4.4.1.1.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:D.\tmpSpace\game\MyCppGame\cocos2d\cocos\platform\android\java\libs\EngineDataManager.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:D.\tmpSpace\game\MyCppGame\cocos2d\cocos\platform\android\java\libs\android-async-http-1.4.9.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:D.\tmpSpace\game\MyCppGame\cocos2d\cocos\platform\android\java\libs\com.android.vending.expansion.zipfile.jar:unspecified@jar" level="project" />
+  </component>
+</module>
